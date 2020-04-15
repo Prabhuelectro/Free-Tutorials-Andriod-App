@@ -2,7 +2,7 @@
 ## Free Tutorials from W3Schools and TutorialPoint
 
 <p align="center">
-<img width="450" height="450" src="https://raw.githubusercontent.com/Prabhuelectro/Free-Tutorials-Andriod-App/master/image/front.JPG">
+<img width="450" height="500" src="https://raw.githubusercontent.com/Prabhuelectro/Free-Tutorials-Andriod-App/master/image/front.JPG">
 </p>
 
 <p align="center">
